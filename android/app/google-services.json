@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "803454950523",
+    "project_id": "houzza-customer-app",
+    "storage_bucket": "houzza-customer-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803454950523:android:6764d26b86d69da5e316de",
+        "android_client_info": {
+          "package_name": "com.realesate.real_estate_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMtr-__D7p7PtCtTMhYSdhwB8bRxqA97M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,9 @@
+#include "Pods/Target Support Files/Pods-Runner/Pods-Runner.release.xcconfig"
+#include "Generated.xcconfig"
+
+// Disable symbol uploads completely (safe for App Store)
+
+//UPLOAD_SYMBOLS_DISABLED = YES
+//EXCLUDED_SYMBOLS_FOR_UPLOAD = Agora* Razorpay* video_* aosl*
+//DEBUG_INFORMATION_FORMAT = dwarf-with-dsym
+//STRIP_DEBUG_SYMBOLS_DURING_COPY = NO
